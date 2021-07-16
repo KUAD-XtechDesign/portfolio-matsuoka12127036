@@ -82,7 +82,7 @@ header a {
 
 header .inner {
   display: flex;
-  background-color: #fff;
+  background-color: #FFA500;
   justify-content: space-between;
   padding: 15px 20px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.35);
@@ -135,7 +135,7 @@ footer {
 
 .top_eye_catch {
   height: 500px;
-  background-image: url(../images/top.jpg);
+  background-image: url(../images/photo0000-2294.jpeg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -252,9 +252,9 @@ report
 case1
 ======================================================*/
  
-#case1{
+#case1 li{
   border-left: 1px solid #000;
-  margin-left: 30px
+  margin-left:30px;
 }
   
  #case1 li{
