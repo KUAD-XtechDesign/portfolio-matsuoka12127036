@@ -9,7 +9,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 60%;
 }
 
 html,
@@ -253,10 +253,10 @@ case1
 ======================================================*/
 
  
-#case1{
+#case1 {
   border-left: 1px solid #000;
   margin-left: 30px;
-  }
+}
   
  #case1 li{
   display: flex;
